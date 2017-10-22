@@ -1,2 +1,2 @@
-Creatign my first file in github!!!
+Creating my first file on github!!!
 Hello World!
